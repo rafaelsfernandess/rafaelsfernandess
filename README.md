@@ -4,7 +4,7 @@
 
 - 💼 Trabalho no setor desenvolvimento web na Prefeitura Municipal de Criciúma;<br>
 - 📚 Estudo JAVA, PHP, CAKEPHP, HTML, CSS;<br>
-- 📧 Email para contato: rafaelsfernandes@outlook.com;<br>
+- 🎓 Cursando Análise e Desenvolvimento de Sistemas - Faculdade Senac;
 
  ##
  
