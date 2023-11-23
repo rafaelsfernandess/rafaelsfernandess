@@ -2,9 +2,8 @@
 
 <!-- Sobre -->
 
-- 💼 Trabalho no setor desenvolvimento web na Prefeitura Municipal de Criciúma;<br>
-- 📚 Estudo JAVA, PHP, CAKEPHP, HTML, CSS;<br>
-- 🎓 Cursando Análise e Desenvolvimento de Sistemas - Faculdade Senac;
+- 💼 Dev Web Full-Stack ;<br>>
+- 🎓 Cursando Análise e Desenvolvimento de Sistemas - Faculdade Senac 5/5;
 
  ##
  
