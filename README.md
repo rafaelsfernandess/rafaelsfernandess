@@ -2,7 +2,7 @@
 
 <!-- Sobre -->
 
-- 💼 Dev Web Full-Stack ;<br>>
+- 💼 Dev Web Full-Stack ;<br>
 - 🎓 Cursando Análise e Desenvolvimento de Sistemas - Faculdade Senac 5/5;
 
  ##
